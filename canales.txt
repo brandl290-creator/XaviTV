@@ -1,0 +1,76 @@
+[
+
+ {
+   "id": 1,
+   "nombre": "America Television",
+   "categoría": "Nacional",
+   "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
+   "url": "http://190.93.224.42/AMERICA-TV/index.m3u8"
+
+  },
+{
+   "id": 2,
+   "nombre": "ABTelevision",
+   "categoría": "Nacional",
+   "imagen": "https://i.imgur.com/tqMDscD.png",
+   "url": "https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8"
+  },
+{
+   "id": 3,
+   "nombre": "Antena Sur",
+   "categoría": "Nacional",
+   "imagen": "https://i.imgur.com/4aHrD2l.jpeg",
+   "url": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8"
+  },
+{
+   "id": 4,
+   "nombre": "Agro TV",
+   "categoría": "Musical",
+   "imagen": "https://i.imgur.com/1uLGa3w.png",
+   "url": "https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8"
+  },
+{
+   "id": 5,
+   "nombre": "Andes Television",
+   "categoría": "Nacional",
+   "imagen": "https://i.imgur.com/CsW4Op8.png",
+   "url": "https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8"
+  },
+{
+   "id": 6,
+   "nombre": "Atlantis Radio Tv",
+   "categoría": "Entretenimiento",
+   "imagen": "https://i.imgur.com/1eB9roP.png",
+   "url": "https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8"
+  },
+{
+   "id": 7,
+   "nombre": "ATV",
+   "categoría": "Nacional",
+   "imagen": "https://i.imgur.com/eUzYZfg.png",
+   "url": "http://190.93.224.42/ATV/index.m3u8"
+  },
+{
+   "id": 8,
+   "nombre": "Autentica Television",
+   "categoría": "NACIONAL",
+   "imagen": "https://i.imgur.com/bEJK3RN.png",
+   "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8"
+  },
+{
+   "id": 9,
+   "nombre": "Cadena Tv",
+   "categoría": "Nacional",
+   "imagen": "https://i.imgur.com/stvzqzd.png",
+   "url": "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8"
+  },
+{
+   "id": 10,
+   "nombre": "Canal 8 Catacaos",
+   "categoría": "Nacional",
+   "imagen": "https://i.imgur.com/O5MrFjY.png",
+   "url": "https://live.obslivestream.com/canal8/index.m3u8"
+ } 
+
+]
+
